@@ -1,12 +1,50 @@
-- 👋 Hi, I’m Shashikant Kumar Bind
-- 👀 I’m interested in competitive programming...
-- 🌱 I’m currently learning programming...
-- 💞️ I’m looking to collaborate on open source...
-- 📫 How to reach me at @stechbindra...
-- 😄 Pronouns: He...
-- ⚡ Fun fact: Just chilling...
+# Shashikant Kumar Bind
 
-<!---
-stechbindra2/stechbindra2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🎓 Education  
+- **BTech in Electronics and Communication** (Minor in AI and Machine Learning)  
+  University of Delhi | 2nd Year  
+- **BS in Data Science and Applications**  
+  IIT Madras  
+
+---
+
+## 🤹 Technical Skills  
+- **Programming Languages**: Python, C++, HTML, CSS, JavaScript  
+- **Frameworks and Tools**: React, React Testing Library, Git, Figma
+- **Specializations**: Generative AI, Android Development, UI/UX Design
+
+---
+
+## 🏢 Work Experience  
+- **Founder & CEO** | PrintDev  
+  Building a web-based platform to connect customers with local printing shops, offering document design, editing, scanning, and home delivery services.  
+
+- **TA Analyst Intern** | AI Wizard  
+  Assisted in recruitment processes for AI-based projects, focusing on talent acquisition strategies.  
+
+- **PW Campus Ambassador**  
+  Promoted educational programs and engaged with the student community.  
+
+---
+
+## 💁 Community Experience  
+- **Regional Coordinator** | Nilgiri House, IIT Madras  
+- **PR and Design Team Member** | STUDS & MUDS Football Club, IIT Madras  
+
+---
+
+## 📚 Projects  
+- Developed a **Fitness Management System** in Python during high school.  
+- Working on **GenAI Studio**, a multi-modal Generative AI product for content creation.  
+
+---
+
+## 🏆 Achievements  
+- Shortlisted for **Cyber Physical Systems Lab Internship**, University of Delhi.  
+- Winner of **Photography Competition** (2024).  
+
+---
+
+## 🌐 Connect with Me  
+- **LinkedIn**: [Shashikant Kumar Bind](https://www.linkedin.com/in/shashikant-kumar-bind-20a25b2a7/)  
+- **GitHub**: [Your GitHub Profile](#)  
