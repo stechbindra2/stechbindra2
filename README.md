@@ -39,12 +39,6 @@
 
 ---
 
-## 🏆 Achievements  
-- Shortlisted for **Cyber Physical Systems Lab Internship**, University of Delhi.  
-- Winner of **Photography Competition** (2024).  
-
----
-
 ## 🌐 Connect with Me  
 - **LinkedIn**: [Shashikant Kumar Bind](https://www.linkedin.com/in/shashikant-kumar-bind-20a25b2a7/)  
 - **GitHub**: [Your GitHub Profile](#)  
