@@ -1,98 +1,20 @@
-<div align="center">
+### Hi there, I am Shashikant Kumar Bind 👋  
 
-# SHASHIKANT KUMAR BIND
+🔭 I’m currently working as the **CEO** at **PrintDev**  
+💬 Ask me about **Startups, AI Development, and Web App Building**  
+🌱 I’m currently learning **Electromagnetic Theory (EMT) and AI-Powered Solutions**   
+⚡ Fun fact: **I once won a photography competition and love exploring creative ideas!**  
 
-**Electronics and Communication Engineering | AI & Machine Learning | Development**
+### 📊 GitHub Stats  
+![Shashikant's GitHub stats](https://github-readme-stats.vercel.app/api?username=stechbindra2&show_icons=true&theme=radical)  
 
-</div>
+### 🔥 Streak Stats  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stechbindra2&theme=radical)  
 
----
+### 💻 Top Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stechbindra2&layout=compact&theme=radical)  
 
-## 🎓 Education  
 
-| Degree | Institution | Duration |
-|--------|------------|----------|
-| **BTech in Electronics and Communication** <br>(Minor in AI and Machine Learning) | University of Delhi | 2nd Year |
-| **BS in Data Science and Applications** | IIT Madras | - |
-
----
-
-## 🤹 Technical Skills  
-
-<table>
-  <tr>
-    <td width="33%"><strong>Programming Languages</strong></td>
-    <td>Python, C++, HTML, CSS, JavaScript</td>
-  </tr>
-  <tr>
-    <td><strong>Frameworks & Tools</strong></td>
-    <td>React, React Testing Library, Git, Figma</td>
-  </tr>
-  <tr>
-    <td><strong>Specializations</strong></td>
-    <td>Generative AI, Android Development, UI/UX Design</td>
-  </tr>
-</table>
-
----
-
-## 🏢 Professional Experience  
-
-<details open>
-<summary><strong>Founder & CEO | PrintDev</strong></summary>
-<blockquote>
-Building a web-based platform to connect customers with local printing shops, offering document design, editing, scanning, and home delivery services.
-</blockquote>
-</details>
-
-<details open>
-<summary><strong>TA Analyst Intern | AI Wizard</strong></summary>
-<blockquote>
-Assisted in recruitment processes for AI-based projects, focusing on talent acquisition strategies.
-</blockquote>
-</details>
-
-<details open>
-<summary><strong>PW Campus Ambassador</strong></summary>
-<blockquote>
-Promoted educational programs and engaged with the student community.
-</blockquote>
-</details>
-
----
-
-## 💁 Community Leadership
-
-<table>
-  <tr>
-    <td width="50%"><strong>Regional Coordinator</strong></td>
-    <td>Nilgiri House, IIT Madras</td>
-  </tr>
-  <tr>
-    <td><strong>PR and Design Team Member</strong></td>
-    <td>STUDS & MUDS Football Club, IIT Madras</td>
-  </tr>
-</table>
-
----
-
-## 📚 Projects  
-
-<details open>
-<summary><strong>Fitness Management System</strong></summary>
-<blockquote>
-Developed in Python during high school. A system for fitness tracking and management.
-</blockquote>
-</details>
-
-<details open>
-<summary><strong>GenAI Studio</strong></summary>
-<blockquote>
-Currently working on a multi-modal Generative AI product for content creation.
-</blockquote>
-</details>
-
----
 
 <div align="center">
 
