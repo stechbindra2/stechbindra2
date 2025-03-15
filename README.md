@@ -1,7 +1,6 @@
 ### Hi there, I am Shashikant Kumar Bind 👋  
 
 🔭 I’m currently working as the **CEO** at **PrintDev**  
-💬 Ask me about **Startups, AI Development, and Web App Building**  
 🌱 I’m currently learning **Electromagnetic Theory (EMT) and AI-Powered Solutions**   
 ⚡ Fun fact: **I once won a photography competition and love exploring creative ideas!**  
 
